@@ -24,4 +24,3 @@ It provides insights into:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   https://github.com/yourusername/hospital-emergency-room-dashboard.git](https://github.com/LeadGenData/hospital-emergency-room-dashboard-Power-BI-/tree/main
